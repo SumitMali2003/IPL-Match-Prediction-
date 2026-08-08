@@ -127,7 +127,7 @@ The interface is mainly added to make the project easier to use and demonstrate.
 
 ```text
 .
-├── Copy_of_IPLproject.ipynb
+├── IPL Match Prediction.ipynb
 ├── Match.csv
 └── README.md
 ```
