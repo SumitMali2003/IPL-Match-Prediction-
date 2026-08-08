@@ -28,14 +28,5 @@ The project uses `Match.csv`.
 
 For Google Colab:
 
-## Running the Project
-1. Install the required packages
-   pip install pyspark findspark
-2. Start Jupyter Notebook
-3. Open the notebook
-4. Run the project
 ```text
 /content/Match.csv
-
-
-
